@@ -22,3 +22,6 @@ We have the following expectation of this package:
 
 - Entanglement engineering of optomechanical systems by reinforcement learning https://arxiv.org/pdf/2406.04550
 - https://arxiv.org/pdf/2406.12195
+
+
+<!-- Export to requirement.txt `conda list -e > requirements.txt` -->
